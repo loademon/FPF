@@ -1,3 +1,9 @@
+# WARNING
+- This repo is still under development.
+- Using free and public proxies can lead to bad scenarios
+
+
+
 # Flexible Proxy Finder (FPF)
 
 FPF is a Python program designed to simplify the process of finding and utilizing proxies by applying user-specified filters.
